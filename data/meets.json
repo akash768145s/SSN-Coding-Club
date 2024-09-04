@@ -1,0 +1,15 @@
+[
+  {
+    "text": "Currently Cooking",
+    "date": "To Be Announced",
+    "category": {
+      "tag": "CC",
+      "color": "orangered"
+    },
+    "description": "Something Special",
+    "link": {
+      "url": ""
+    },
+    "status":"Soon"    
+  }
+]
